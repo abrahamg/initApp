@@ -1,1 +1,1 @@
-read me text
+here i start using linux sh
